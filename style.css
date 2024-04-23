@@ -1,12 +1,27 @@
-.blok1{border: 100px solid rgb(231, 138, 104);  } 
-h1{color: blue; font-size: 50px; text-align: center;}
-.blok2{border: 100px solid blueviolet;}
-.blok3{ border:100px solid orange ;}
-.text1{color: blue; font: size 15px; width: 400px;text-align: left;}
-,H2{text-align: center; color: blue;}
-.text2{color: blue; text-align: left;}
-.text3{color: blue; text-align: left;}
-.girl{width: 200px; height: 150px;}
-.family{width: 200px; height: 150px;}
-.logo{width: 50px;text-align: center;}
-.blok4{border: white; text-align: center;}
+h1{font-weight:bold; width: 300px; text-align: center;}
+.evro{width: 25px;height: 25px;}
+.E{font-weight: bold;}
+.dollar{width: 25px; height: 25px;}
+.dollar2{font-weight: bold;}
+.funt{width: 25px;height: 25px;}
+.funt2{font-weight: bold;}
+.iena{width: 25px;height: 25px;}
+.iena2{font-weight: bold;}
+.lary{width: 25px;height: 25px;}
+.lary2{font-weight: bold;}
+.foto1{width: 20px;height: 20px;}
+.foto2{width: 20px;height: 20px;}
+.dollar3{width: 15px; height: 15px;}
+.evro3{width: 15px;height: 15px;}
+.evro4{width:15px; height: 15px;}
+.Eng{width: 25px; height: 25px;}
+.table{border:solid grey;} tr, th, td{border: 3px solid grey; }
+.evrozona3{width: 20px;height: 20px;}
+.Funt{width: 20px; height: 20px;}
+.evro6{width: 20px; height: 20px;}
+.Japen{width: 20px; height: 20px;}
+.evrozona4{width: 20px; height: 20px;}
+.iena4{width: 20px;height: 20px;}
+.evrozona5{width: 20px; height: 20px;}
+.Gruzia{width: 20px;height: 20px;}
+
