@@ -1,0 +1,32 @@
+.container{margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    position: relative;}
+    .bode{padding: 10px;}
+    .square1{
+      width: 100px;
+      height: 100px;
+      background-color: rgb(229, 160, 160);
+      margin: 0 auto;
+    position: absolute;
+  z-index: 1;}
+    .square2{
+      display: block;
+      width: 100px;
+      height: 100px;
+      background-color: rgb(160, 160, 238);
+    position: relative;
+    left: 50px;
+    top: 50px;
+    }
+       
+      .square3{
+        display: inline-block;
+        width: 100px;
+        height: 100px;
+        background-color: rgb(125, 243, 125);
+        position: absolute;
+        left: 120px;
+        top: 120px;
+        z-index: 1;
+      }

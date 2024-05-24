@@ -1,0 +1,30 @@
+.container{margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    position: relative;}
+    .bode{padding: 10px;}
+    .square1{
+      width: 100px;
+      height: 100px;
+      background-color: rgb(243, 93, 93);
+      margin: 0 auto;
+    position: absolute;}
+    .square2{
+      display: block;
+      width: 100px;
+      height: 100px;
+      background-color: rgb(111, 111, 236);
+    position: relative;
+    left:   50px;
+    top: 50px;
+    }
+       
+      .square3{
+        display: inline-block;
+        width: 100px;
+        height: 100px;
+        background-color: rgb(88, 223, 88);
+        position: relative;
+        left: 90px;
+        top: 5px ;
+      }

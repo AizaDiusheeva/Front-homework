@@ -1,0 +1,30 @@
+.container{margin: 0;
+padding: 0;
+box-sizing: border-box;
+position: relative;}
+.body{padding: 10px;}
+.square1{
+  width: 100px;
+  height: 100px;
+  border: 3px solid red;
+  margin: 0 auto;
+position: absolute;}
+.square2{
+  display: block;
+  width: 100px;
+  height: 100px;
+  border: 3px solid rgb(117, 51, 238);
+position: relative;
+left:   50px;
+top: 50px;
+}
+   
+  .square3{
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    border: 3px solid green;
+    position: relative;
+    left: 90px;
+    top: 5px ;
+  }
